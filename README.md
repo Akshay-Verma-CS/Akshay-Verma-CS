@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Verma-CS
 - 👀 I’m interested in Competitive coding and photography.
-- 🌱 I’m currently learning as a CSE student
+- 🌱 I’m currently working as an Associate Software Engineer
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me - 1834810010.cse.psitcoe@gmail.com
 
